@@ -3219,4 +3219,4 @@ input, select, textarea {
 			}
 	}
 
-#three>div :hover{background-color: #3eb08f;}
+#contact input:hover, #contact textarea:hover{background-color: #3eb08f;}
